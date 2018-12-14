@@ -1,24 +1,11 @@
-# README
+# Tinder風マッチングアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Techpit主催の勉強会にて作成しました。
 
-Things you may want to cover:
+## 画面一部
 
-* Ruby version
+![](docs/images/tinder-3.png)
 
-* System dependencies
+![](docs/images/tinder-2.png)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](docs/images/tinder-1.png)
